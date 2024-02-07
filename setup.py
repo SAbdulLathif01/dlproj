@@ -21,7 +21,7 @@ name="Xray",
 version="0.0.1",
 author="SAbdulLathif01",
 author_email="lathif779@gmail.com",
-install_requires=get_requirements(r"/config/workspace/requirements_dev.txt"),
+install_requires=get_requirements(r"C:\Users\lathif\dlproject\dlproj\requirements_dev.txt"),
 package=find_packages()
 
 )
